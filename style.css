@@ -3,8 +3,9 @@ header {
 }
 .div {
     background-color: #FDCD3D;
-    height: 400px;
-    padding: 50px
+    height: 500px;
+    padding: 50px;
+    width: 100%
 }
 h1 {
     padding: 20px;
@@ -21,7 +22,7 @@ h3 {
     word-wrap: initial;
     position: relative; top: -10%
 }
-button {
+.button1 {
     background-color: #FDCD3D;
     color: white;
     font-size: 20px;
@@ -33,5 +34,44 @@ button {
 .mac {
     margin-left: 60%;
     height: 100%;
-    position: relative; top: -355px
+    position: relative; top: -370px
+}
+.red {
+    display: flex;
+    justify-content: space-evenly;
+    position: relative; top: 50px
+
+}
+.html {
+display: flex;
+height: 200px
+}
+button {
+    font-size: 20px;
+    padding: 20px;
+    border-top-color: black;
+    border-color: black;
+    background-color: white;
+    border-width: 3px;
+    font-size: 20px;
+
+}
+.css {
+    height: 200px
+}
+.js{
+    height: 200px
+}
+.blue{
+    display: flex;
+    justify-content: center;
+    position: relative; top: 90px;
+    justify-content: space-evenly;
+    margin-left: 60px
+}
+.yellow{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    position: relative; top: 130px
 }
