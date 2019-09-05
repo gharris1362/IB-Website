@@ -1,0 +1,37 @@
+header {
+    padding: 1%
+}
+.div {
+    background-color: #FDCD3D;
+    height: 400px;
+    padding: 50px
+}
+h1 {
+    padding: 20px;
+    color: white;
+    position: relative; top: 5% 
+}
+h2 {
+    padding: 20px;
+    color: white
+}
+h3 {
+    padding: 20px;
+    color: white;
+    word-wrap: initial;
+    position: relative; top: -10%
+}
+button {
+    background-color: #FDCD3D;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+    border-color: white;
+    margin-left: 1%;
+    position: relative; top: 200%
+}
+.mac {
+    margin-left: 60%;
+    height: 100%;
+    position: relative; top: -355px
+}
